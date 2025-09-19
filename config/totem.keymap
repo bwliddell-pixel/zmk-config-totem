@@ -47,7 +47,7 @@
 
         Gaming_layer {
             bindings = <&tog 6>;
-            key-positions = <2 11 13 34>;
+            key-positions = <2 11 13 32 20>;
         };
     };
 
